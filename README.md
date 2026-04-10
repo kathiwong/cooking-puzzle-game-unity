@@ -5,3 +5,6 @@ This project aims to design and develop a hybrid-casual game prototype from scra
 A distinctive feature of the project is its Hong Kong local eatery theme, which promotes Hong Kong’s local food culture, aiming to enhance cultural identification and belonging among Hong Kong players while presenting authentic local dishes to a wider international audience.
 
 The game was developed using the Unity game engine with C# programming language which followed an iterative approach, where the base game was implemented and the project focuses on the prototype stage of development where the core game flow and design direction are established, providing the potential for add-on features and game modes in the future.
+
+The game can be played on the web browser under the game development community platform itch.io.
+https://87choco.itch.io/hk-cat-puzzle-resto 
